@@ -1,7 +1,7 @@
 [
     {
         "li1_content":
-        "Learn technology as it grow, learn how apps / websites use your data."
+        "Learn technology as it grow, learn how apps / websites uses your data."
     },
     {
         "li2_content":
@@ -25,10 +25,10 @@
     },
     {
         "p3_content":
-        "asdasd"
+        "<h2>Artists that i admire:</h2><li>@Zi</li><br><li>@hoteiblender</li><br><li>@MikaPikazo</li><br>"
     },
     {
-        "imgURL1":
-        "https://i.gifer.com/Uftg.gif"
+        "p4_content":
+        "<h2>Song artists that i listen to:</h2><li>Juice WRLD</li><br><li>EDMS</li><br><li>Hatsune Miku</li><br>"
     }
 ]

@@ -18,14 +18,15 @@ export default function cDiv() {
         p1.id="p1"
         p2.id="p2"
         p3.id="p3"
+        p4.id="p4"
         p1.innerHTML=data.shift().p1_content
         p2.innerHTML=data.shift().p2_content
         p3.innerHTML=data.shift().p3_content
+        p4.innerHTML=data.shift().p4_content
         img1.id="img1";
-        img1.src=data.shift().imgURL1;
-    div2.append(img1, h1, p1, p2, p3);
+    div2.append(div3, img1, h1, p1, p2, p3, p4);
 
     div1.id="container";
-    div1.append(div2, div3);
+    div1.append(div2);
     document.body.append(div1);
-} //1334 x 750
+}
