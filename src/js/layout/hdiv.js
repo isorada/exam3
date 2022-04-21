@@ -4,7 +4,7 @@ export default function hDiv() {
 
     div1.id="tnl_div";
         logo.id="logo";
-        logo.src="./misc/logo/1028801.jpg";
+        logo.src="./misc/logo/246359.jpg";
         
         div2.id="div2"
         div2.append(h1, h3)
